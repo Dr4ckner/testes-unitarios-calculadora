@@ -1,0 +1,14 @@
+D:\Programação\ModulosTestesDio\calc\bin\Debug\net8.0\calc.exe
+D:\Programação\ModulosTestesDio\calc\bin\Debug\net8.0\calc.deps.json
+D:\Programação\ModulosTestesDio\calc\bin\Debug\net8.0\calc.runtimeconfig.json
+D:\Programação\ModulosTestesDio\calc\bin\Debug\net8.0\calc.dll
+D:\Programação\ModulosTestesDio\calc\bin\Debug\net8.0\calc.pdb
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.AssemblyInfoInputs.cache
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.AssemblyInfo.cs
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.csproj.CoreCompileInputs.cache
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.dll
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\refint\calc.dll
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.pdb
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\calc.genruntimeconfig.cache
+D:\Programação\ModulosTestesDio\calc\obj\Debug\net8.0\ref\calc.dll
